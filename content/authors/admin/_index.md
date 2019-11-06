@@ -27,10 +27,10 @@ interests:
 - Information Retrieval
 
 education:
-  - course: BSc in Computing Engineering (Double Degree)
+  - course: BSc in #Computing Engineering (Double Degree)
     institution: Politecnico di Milano
-    year: NOW
-  - course: BSc in Electronics and Information Engineering
+    year: 2020
+  - course: BSc in #Electronics and Information Engineering
     institution: Tongji University
     year: 2019
 
