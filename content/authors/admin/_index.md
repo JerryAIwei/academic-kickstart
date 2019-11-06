@@ -27,12 +27,16 @@ interests:
 - Information Retrieval
 
 education:
-  - course: BSc in Artificial Intelligenc
-    institution: Politecnico di Milano
-    year: 2020
-  - course: BSc in Artificial Intelligenc
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Electronics and Information Engineering
     institution: Tongji University
-    year: 2019
+    year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
