@@ -32,7 +32,7 @@ education:
     institution: Stanford University
     year: 2012
   - course: BSc in Computing Engineering (Double Degree)
-    institution: Massachusetts Institute of Technology
+    institution: Pplitecnico di Milano
     year: 2019 - NOW
   - course: BSc in Electronics and Information Engineering
     institution: Tongji University
