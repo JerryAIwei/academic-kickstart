@@ -31,9 +31,9 @@ education:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: BSc in Computing Engineering (Double Degree)
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2019 - NOW
   - course: BSc in Electronics and Information Engineering
     institution: Tongji University
     year: 2016 - 2019
