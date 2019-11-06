@@ -25,7 +25,8 @@ interests:
 - SLAM
 - 3D Computer Vision
 - Visual Servo
-
+- Multi-Agent System
+- Reinforcement Learning
 education:
   courses:
   # - course: PhD in Artificial Intelligence
