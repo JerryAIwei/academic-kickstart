@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
   - course: BSc in Computing Engineering (Double Degree)
     institution: Pplitecnico di Milano
     year: 2019 - NOW
