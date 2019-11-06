@@ -22,9 +22,9 @@ url: ""
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- SLAM
+- 3D Computer Vision
+- Visual Servo
 
 education:
   courses:
