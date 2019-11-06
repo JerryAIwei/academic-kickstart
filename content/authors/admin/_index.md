@@ -22,11 +22,9 @@ url: ""
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- SLAM
-- Robot Vision
-- Visual Servo
-- Multi-Agent System
-- Reinforcement Learning
+- Semantics SLAM, 3D Robot Vision, Visual Servo
+- Multi-Agent System, Reinforcement Learning
+- One/Few Shot(s) Learning, and Lifelong Learning
 education:
   courses:
   - course: BSc in Computing Engineering (Double Degree)
@@ -43,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aiwei.yin@polimi.it'  # For a direct email link, use "mailto:test@example.org".
+  link: '#aiwei.yin@polimi.it'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -69,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a final year undergraduate student of computing engineering at Polimi. My research interests include all aspects in robotics, especially in Semantics SLAM and Robot Vision. I am also interest in Reinforce Learning, Multi-Agent system, One/Few Shot(s) Learning, and Lifelong Learning. My furture goal is to advance the Special Intelligent of the robot. 
+I am looking for opportunity to pursue a PhD in Robotics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
