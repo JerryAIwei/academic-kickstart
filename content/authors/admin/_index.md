@@ -14,8 +14,9 @@ role: Student in EECS
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University / Politecnico di Milano
-  url: ""
+- name: Politecnico di Milano
+- name: Tongji University 
+url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
