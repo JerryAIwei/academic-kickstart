@@ -13,9 +13,9 @@ superuser: true
 role: Student in EECS
 
 # Organizations/Affiliations
-organizations:
-- name: Politecnico di Milano
-- name: Tongji University 
+#organizations:
+#- name: Politecnico di Milano
+#- name: Tongji University 
 url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,16 +27,12 @@ interests:
 - Information Retrieval
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computing Engineering (Double Degree)
+    institution: Politecnico di Milano
+    year: 2019 - NOW
+  - course: BSc in Electronics and Information Engineering
+    institution: Tongji University
+    year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
