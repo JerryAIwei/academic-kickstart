@@ -27,13 +27,13 @@ date_format = "Jan 2006"
   description = """Development of a new Semantic SLAM system"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Lab. of Internet of Vehicles in Tongji"
   company_url = ""
-  location = "California"
+  location = "Shanghai"
   date_start = "2018-09"
   date_end = "2018-12"
   description = """
-  * Was involved in the development of an Auto-Parking system 
+  Was involved in the development of an Auto-Parking system
   """
 +++
