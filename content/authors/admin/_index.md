@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a final year undergraduate student of computing engineering at Polimi. My research interests include all aspects in robotics, especially in Semantics SLAM and Robot Vision. I am also interest in Reinforce Learning, Multi-Agent system, One/Few Shot(s) Learning, and Lifelong Learning. My furture goal is to advance the Special Intelligent of the robot.\\ 
+I am a final year undergraduate student of computing engineering at Polimi. My research interests include all aspects in robotics, especially in Semantics SLAM and Robot Vision. I am also interest in Reinforce Learning, Multi-Agent system, One/Few Shot(s) Learning, and Lifelong Learning. My furture goal is to advance the Special Intelligent of the robot.  
 I am looking for opportunity to pursue a PhD in Robotics.
 
