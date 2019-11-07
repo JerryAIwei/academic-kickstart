@@ -16,7 +16,7 @@ role: Student in EECS
 #organizations:
 #- name: Politecnico di Milano
 #- name: Tongji University 
-url: ""
+url: "mailto:aiwei.yin@polimi.it"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include SLAM,  and programmable matter.
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#aiwei.yin@polimi.it'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
