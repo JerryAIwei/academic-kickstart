@@ -42,7 +42,7 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: skype
-  icon_pack: fas
+  icon_pack: fab
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
