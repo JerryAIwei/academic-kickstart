@@ -27,8 +27,8 @@ interests:
 education:
   courses:
   - course: BSc in Computing Engineering (Double Degree)
-    institution: Pplitecnico di Milano
-    year: 2019 - NOW
+    institution: Politecnico di Milano
+    year: 2019 - Current
   - course: BSc in Electronics and Information Engineering
     institution: Tongji University
     year: 2016 - 2019
