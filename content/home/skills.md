@@ -21,13 +21,13 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "python"
   description = ""  
   
 [[feature]]
-  icon = "fa-robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "ROS"
   description = ""
