@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "cpp-project"
+  icon = "cuttlefish"
   icon_pack = "fab"
   name = "C/C++"
-  description = "cuttlefish"
+  description = ""
   
 [[feature]]
-  icon = "python-project"
+  icon = "fa-python"
   icon_pack = "fab"
   name = "python"
-  description = "python"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-robot"
   icon_pack = "fas"
   name = "ROS"
-  description = "robot"
+  description = ""
 
 +++
