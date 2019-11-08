@@ -18,13 +18,13 @@ subtitle = ""
   icon = "cpp-project"
   icon_pack = "fab"
   name = "C/C++"
-  description = ""
+  description = "fa-cuttlefish"
   
 [[feature]]
   icon = "python-project"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "python"
-  description = ""  
+  description = "fa-python"  
   
 [[feature]]
   icon = "camera-retro"
