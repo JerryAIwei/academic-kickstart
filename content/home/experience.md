@@ -22,19 +22,19 @@ date_format = "Jan 2006"
   company = "Lab. of Intelligent Vehicle in Tongji"
   company_url = ""
   location = "Shanghai"
-  date_start = "2019-06"
-  date_end = "2019-09"
+  date_start = "2019-06-11"
+  date_end = "2019-09-11"
   description = """Development of a new Semantic SLAM system
   """
 
-[[experience]]
-  title = "Research Assistant"
-  company = "Lab. of Internet of Vehicles in Tongji"
-  company_url = ""
-  location = "Shanghai"
-  date_start = "2018-09"
-  date_end = "2018-12"
-  description = """
-  Was involved in the development of an Auto-Parking system
-  """
+#[[experience]]
+#  title = "Research Assistant"
+#  company = "Lab. of Internet of Vehicles in Tongji"
+#  company_url = ""
+#  location = "Shanghai"
+#  date_start = "2018-09"
+#  date_end = "2018-12"
+#  description = """
+#  Was involved in the development of an Auto-Parking system
+#  """
 +++
