@@ -16,7 +16,7 @@ role: Student in EECS
 #organizations:
 #- name: Politecnico di Milano
 #- name: Tongji University 
-url: "mailto:aiwei.yin@polimi.it"
+url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include SLAM,  and programmable matter.

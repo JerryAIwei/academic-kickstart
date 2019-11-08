@@ -1,5 +1,5 @@
 ---
-title: dsfg
+title: Posts
 
 # View.
 #   1 = List
@@ -12,4 +12,3 @@ header:
   caption: "sadfkj;asdkf"
   image: ""
 ---
-dgfdgdfggggggggggggggggggg
