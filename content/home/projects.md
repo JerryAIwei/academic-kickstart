@@ -28,8 +28,6 @@ subtitle = "jhkhk"
    [[content.filter_button]]
      name = "Deep Learning"
      tag = "Deep Learning"
-     content = "I am right aligned :smile:"
-     overlay_img = "test.png"
   
    [[content.filter_button]]
      name = "Other"
