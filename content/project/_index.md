@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "sadfkj;asdkf"
-  image: ""
+  caption: "1111111111111"
+  image: "test.png"
 ---
