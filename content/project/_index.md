@@ -1,14 +1,6 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: "1111111111111"
-  image: "test.png"
+date: "2019-01-01T00:00:00Z"
+summary: See some of the projects I have worked on
+title: Projects
+type: widget_page
 ---
