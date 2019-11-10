@@ -1,8 +1,8 @@
 ---
-title: "Uno2"
+title: "Quadric SLAM With Probabolistic Data Association"
 date: 2019-11-09T06:56:31+08:00
 draft: false
-summary: ddddddddddddddffffffffffffffffsssssssssssssssssssssssssfsffffffffffffffffffuck
+summary: 
 image:
   focal_point: Smart
 links:
