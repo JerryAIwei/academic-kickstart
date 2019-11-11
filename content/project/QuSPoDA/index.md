@@ -5,6 +5,7 @@ draft: false
 summary: "Quadric SLAM with Probabilistic Data Association"
 image:
   focal_point: Smart
+links:  
 - icon: github
   icon_pack: fab
   name: materials
