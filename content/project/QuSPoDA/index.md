@@ -2,7 +2,7 @@
 title: "QuSPoDA"
 date: 2019-11-09T06:56:31+08:00
 draft: false
-summary: Quadric SLAM with Probabilistic Data Association
+summary: "Quadric SLAM with Probabilistic Data Association"
 image:
   focal_point: Smart
 - icon: github
