@@ -7,7 +7,7 @@ image:
   focal_point: Smart
 - icon: github
   icon_pack: fab
-  name: code
+  name: materials
   url: https://github.com/tiev-tongji/quadric_slam 
 
 ---
