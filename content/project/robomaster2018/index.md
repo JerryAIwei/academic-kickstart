@@ -7,8 +7,6 @@ image:
   focal_point: Smart
 
 ---
-[Robomaster is globe annual robotics competition held by Dji.](https://www.robomaster.com/en-US) 
-This is a {{< hl >}}highlighted quote{{< /hl >}}.
-
+[Robomaster](https://www.robomaster.com/en-US) is globe annual robotics competition held by Dji. 
 {{< gallery album="aaa" >}}
 {{< vimeo 372633119 >}}
