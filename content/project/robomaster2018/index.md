@@ -8,6 +8,7 @@ image:
 
 ---
 [Robomaster is globe annual robotics competition held by Dji.](https://www.robomaster.com/en-US) 
+This is a {{< hl >}}highlighted quote{{< /hl >}}.
 
-{{< gallery album="<ALBUM FOLDER>" >}}
+{{< gallery album="aaa" >}}
 {{< vimeo 372633119 >}}
