@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Assistant"
-  company = "Lab. of Intelligent Vehicle in Tongji"
+  company = "Tongji Intelligent Vehicle Group"
   company_url = ""
   location = "Shanghai"
   date_start = "2019-06-11"
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Lab. of Internet of Vehicles in Tongji"
+  company = "Broadband Wireless Communication and Multimedia Lab. of Tongji"
   company_url = ""
   location = "Shanghai"
   date_start = "2018-09-11"
