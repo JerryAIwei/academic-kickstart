@@ -1,13 +1,13 @@
 ---
 title: Around View system 
-summary: A 12-week introduction to fundamental concepts underlying statistical data display, analysis, inference, and statistical decision making
+summary: Project I did in the The Broadband Wireless Communication and Multimedia Lab. of Tongji University
 date: "2016-04-27T00:00:00Z"
 
 image:
   focal_point: Large
 
 ---
-This is a part of an Auto-Parking system, in which we cooperated with SAIC Motor. We deployed the system on nVIDIA PX2 and testing of the system on real vehicle.
+This is a part of an Auto-Parking system, in which we cooperated with SAIC Motor. We take images by four fish-eye cameras on the car and transform them to get a bird's-eye view of the vehicle. Both human drive and algorithm get benefice from it. We deployed the system on nVIDIA PX2 and testing of the system on an SUV provided by SAIC Motor.
 
 {{< vimeo 372626370 >}}
 
