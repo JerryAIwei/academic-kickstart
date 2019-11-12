@@ -1,6 +1,6 @@
 ---
-title: UNO
-summary: 
+title: Rail Eyes
+summary: Pedestrain-detecting-and-alarming device of the railway
 date: "2016-04-27T00:00:00Z"
 
 image:
@@ -8,6 +8,6 @@ image:
 
 ---
 
-This was a 12-week course with weekly 1.5 hour hands-on labs using R and the `ggplot2` package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health & Science University to graduate students in the biomedical sciences.
+Rail Eyes is an IoT device for detecting pedestrians on the railway and sending alarm away. We got the Thales Project Arduino Campus Winner (Second Prize). See the video for more details.
 
 {{< vimeo 372631552 >}}
