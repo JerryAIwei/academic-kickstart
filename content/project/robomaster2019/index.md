@@ -8,4 +8,5 @@ image:
 
 ---
 
-This was a 12-week course with weekly 1.5 hour hands-on labs using R and the `ggplot2` package. This course (CS631) was co-developed with Drs. Steven Bedrick and Jackie Wirz. This team-taught course was offered at Oregon Health & Science University to graduate students in the biomedical sciences.
+[Robomaster](https://www.robomaster.com/en-US) is globe annual robotics competition held by Dji. 
+{{< gallery album="aaa" >}}
