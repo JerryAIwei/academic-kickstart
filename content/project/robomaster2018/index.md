@@ -12,5 +12,5 @@ image:
 We use MSER algorithms and HOG feature of the target to recognize other robots. Then we compute the 3D location and control a two-axis gimbal to sight the target.
 {{< figure src="Screenshot from 2019-11-14 05-21-38.png" title="" lightbox="true" >}}
 ###Power Rune  
-We designed algorithms to recognize numbers on the LED and launch projectile to hit the corresponding numbers on the screen below in order to gain power rune.
+We designed algorithms to recognize numbers on the LED and launch projectile to hit the corresponding numbers on the screen below in order to gain a power rune.
 {{< vimeo 372633119 >}}
