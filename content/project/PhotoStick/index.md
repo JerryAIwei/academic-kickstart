@@ -1,7 +1,7 @@
 ---
 title: PhotoStick
 summary: A nice Android APP for managing and sharing photos.
-date: "2016-04-27T00:00:00Z"
+date: "2018-05-27T00:00:00Z"
 
 image:
   focal_point: Smart

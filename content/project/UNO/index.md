@@ -1,7 +1,7 @@
 ---
 title: Rail Eyes
 summary: Pedestrain-detecting-and-alarming device of the railway
-date: "2016-04-27T00:00:00Z"
+date: "2017-11-27T00:00:00Z"
 
 image:
   focal_point: Smart

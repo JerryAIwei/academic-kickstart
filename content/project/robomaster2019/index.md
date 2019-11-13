@@ -1,7 +1,7 @@
 ---
 title: RoboMaster 2019
 summary: Robotics Competition
-date: "2016-04-27T00:00:00Z"
+date: "2019-07-31T00:00:00Z"
 
 image:
   focal_point: Smart
