@@ -1,6 +1,6 @@
 ---
 title: Around View system 
-summary: Project I did in the The Broadband Wireless Communication and Multimedia Lab. of Tongji University
+summary: Project I did in the Broadband Wireless Communication and Multimedia Lab. of Tongji University
 date: "2018-11-27T00:00:00Z"
 
 image:
