@@ -23,7 +23,7 @@ url: ""
 interests:
 - Semantics SLAM, 3D Robot Vision, Visual Servo
 - Multi-Agent System, Reinforcement Learning
-- One/Few Shot(s) Learning, and Lifelong Learning
+- One/Few Shot(s) Learning, Lifelong Learning
 education:
   courses:
   - course: BSc in Computing Engineering (Double Degree)
@@ -71,5 +71,5 @@ user_groups:
 
 I am a final year undergraduate student in computing engineering at Polimi. My research interests include all aspects of robotics, especially in Semantics SLAM and Robot Vision. I am also interest in Reinforce Learning, Multi-Agent system, One/Few Shot(s) Learning, and Lifelong Learning. My future goal is to advance the Special Intelligent of the robot.   
 
-I will graduate in 2020 summer. I am looking for an opportunity to pursue a Ph.D. in Robotics.
+##I will graduate in 2020 summer. I am looking for an opportunity to pursue a Ph.D. in Robotics.
 
