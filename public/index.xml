@@ -5,9 +5,69 @@
     <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Nov 2019 06:56:31 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>QuSPoDA</title>
+      <link>/project/quspoda/</link>
+      <pubDate>Sat, 09 Nov 2019 06:56:31 +0800</pubDate>
+      
+      <guid>/project/quspoda/</guid>
+      <description>In this project, we constructed a new SLAM system. We used Dual Quadrics(see https://arxiv.org/abs/1804.04011) to represent objects in the environment, which are used to optimize the camera track. Then, we used a Nonparametric skill to solve the data association problem during the construction of Quadrics. We are writing a paper to show more details.</description>
+    </item>
+    
+    <item>
+      <title>RoboMaster 2019</title>
+      <link>/project/robomaster2019/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/robomaster2019/</guid>
+      <description>Robomaster is globe annual robotics competition held by Dji. I joined team Superpower of Tongji as a leader of computer vision group. We won the first prize in the China regional competition and the second prize in the final tournament.
+Automatic Recognition and Sighting Algorithms We optimized the system we designed the previous year to let it detect the target with a higher speed(200 FPS). Then we used Kalman Filter to track and predict the motion of the target to promote the hit rate.</description>
+    </item>
+    
+    <item>
+      <title>Around View system</title>
+      <link>/project/aroundview/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/aroundview/</guid>
+      <description>This is a part of an Auto-Parking system, in which we cooperated with SAIC Motor. We take images by four fish-eye cameras on the car and transform them to get a bird&amp;rsquo;s-eye view of the vehicle. Both human drive and algorithm get benefice from it. We deployed the system on nVIDIA PX2 and testing of the system on an SUV provided by SAIC Motor.
+  </description>
+    </item>
+    
+    <item>
+      <title>RoboMaster 2018</title>
+      <link>/project/robomaster2018/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/robomaster2018/</guid>
+      <description>Robomaster is globe annual robotics competition held by Dji. I joined team Superpower of Tongji as a member of computer vision group. We won the first prize in the China regional competition and the first prize in the final tournament.
+Automatic Recognition and Sighting Algorithms We use MSER algorithms and HOG feature of the target to recognize other robots. Then we compute the 3D location and control a two-axis gimbal to sight the target.</description>
+    </item>
+    
+    <item>
+      <title>PhotoStick</title>
+      <link>/project/photostick/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/photostick/</guid>
+      <description>The project consists of a tool for making photo books in a fast and user-friendly way, saving them in a format that’s size is efficient and easy to share. The photo book is made locally, neglecting the bandwidth costs and synchronization problems.
+The user chooses from his/her gallery which photos to use, and the app will arrange them according to their proportions in a default book. The user can edit the first result by adding comments, changing the layouts of the pages, and swapping the photos.</description>
+    </item>
+    
+    <item>
+      <title>Rail Eyes</title>
+      <link>/project/uno/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/uno/</guid>
+      <description>Rail Eyes is an IoT device for detecting pedestrians on the railway and sending alarm away. We got the Thales Project Arduino Campus Winner (Second Prize). See the video for more details.
+  </description>
+    </item>
     
   </channel>
 </rss>
